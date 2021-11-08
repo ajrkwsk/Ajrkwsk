@@ -3,10 +3,11 @@
 ### TECHNICAL SKILLS
 
 #### Knowledge from the ISTQB syllabus
-PROJECT
-1. Raport z testów →
-2. Mind map → [task 2](https://drive.google.com/file/d/1Kh5fD45No2LOURYb2pbX1FuO_UmW-b7Q/view?usp=sharing) 
-3. Test cases → [task 3](https://drive.google.com/file/d/1d3GwnHwUTJH71Us4el-EgScsEoK1hOr7/view?usp=sharing)
+PROJECT - website testing reserved.com
+1. Raport → [Task 1]
+2. Mind map → [Task 2](https://drive.google.com/file/d/1Kh5fD45No2LOURYb2pbX1FuO_UmW-b7Q/view?usp=sharing) 
+3. Test cases → [Task 3](https://drive.google.com/file/d/1d3GwnHwUTJH71Us4el-EgScsEoK1hOr7/view?usp=sharing)
+4. Bug raport → [Task 4](https://drive.google.com/file/d/1PdDftFSDKmJFAPUJpKuTPVAgQiskaaiX/view?usp=sharing)
 
 
 #### HTML, CSS and JavaScript
