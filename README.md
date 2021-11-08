@@ -3,7 +3,7 @@
 ### TECHNICAL SKILLS
 
 #### Knowledge from the ISTQB syllabus
-1. Raport z testów
+1. Raport z testów →
 2. Mind map → [task 2](https://drive.google.com/file/d/1Kh5fD45No2LOURYb2pbX1FuO_UmW-b7Q/view?usp=sharing) 
 3. Test cases → [task 3](https://drive.google.com/file/d/1d3GwnHwUTJH71Us4el-EgScsEoK1hOr7/view?usp=sharing)
 
@@ -16,7 +16,7 @@
 
 #### Database - SQL
 
-1. [ZadaniaSQL](https://docs.google.com/spreadsheets/d/1ND1K03LuBaMaMqJR1UO99ceFDI0Mx35E/edit?usp=sharing&ouid=100780425989207393474&rtpof=true&sd=true)
+1. SQL → [Task](https://drive.google.com/file/d/1zDEP85vqpdPWp3RX6Oxw14y3z_PAAbCN/view?usp=sharing)
 
 
 ### PERSONAL SKILLS
