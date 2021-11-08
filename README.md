@@ -4,7 +4,7 @@
 
 #### Knowledge from the ISTQB syllabus
 1. Raport z testów
-2. Mapa myśli
+2. [Mind map](https://drive.google.com/file/d/1Kh5fD45No2LOURYb2pbX1FuO_UmW-b7Q/view?usp=sharing) 
 3. Scenariusz testowy
 4. Zgłoszenie błędów
 
