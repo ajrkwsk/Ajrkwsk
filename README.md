@@ -1,12 +1,5 @@
 # PORTFOLIO
 
-### PERSONAL SKILLS
-• Talented in problem solving <br>
-• Self organized and ordered <br>
-• Fast learner <br>
-• Polite, respectful and flexible <br>
-• Patient and diligent
-
 ### TECHNICAL SKILLS
 
 #### Knowledge from the ISTQB syllabus
@@ -25,3 +18,11 @@
 #### Database - SQL
 
 1. [ZadaniaSQL](https://docs.google.com/spreadsheets/d/1ND1K03LuBaMaMqJR1UO99ceFDI0Mx35E/edit?usp=sharing&ouid=100780425989207393474&rtpof=true&sd=true)
+
+
+### PERSONAL SKILLS
+• Talented in problem solving <br>
+• Self organized and ordered <br>
+• Fast learner <br>
+• Polite, respectful and flexible <br>
+• Patient and diligent
