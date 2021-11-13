@@ -24,7 +24,7 @@
 #### Database - SQL
 
 1. SQL → [Task](https://drive.google.com/file/d/1zDEP85vqpdPWp3RX6Oxw14y3z_PAAbCN/view?usp=sharing)
-
+_________________________________________________________________________________________________________________________________________________________________
 
 ### PERSONAL SKILLS
 • Talented in problem solving <br>
