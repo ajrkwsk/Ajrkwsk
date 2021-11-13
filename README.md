@@ -11,7 +11,7 @@
 4. Bug raport → [Task 4](https://drive.google.com/file/d/1PdDftFSDKmJFAPUJpKuTPVAgQiskaaiX/view?usp=sharing)
 
 ###### AUTOMATIC TESTS
-1. Postman → [Task1](https://drive.google.com/file/d/1bUp5dTcyquCnRQW9bXnC54ZuxHWQMu5Z/view?usp=sharing)
+1. Postman → [Task 1](https://drive.google.com/file/d/1bUp5dTcyquCnRQW9bXnC54ZuxHWQMu5Z/view?usp=sharing)
 
 
 
