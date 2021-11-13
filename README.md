@@ -9,6 +9,10 @@ PROJECT - website testing reserved.com
 3. Test cases → [Task 3](https://drive.google.com/file/d/1d3GwnHwUTJH71Us4el-EgScsEoK1hOr7/view?usp=sharing)
 4. Bug raport → [Task 4](https://drive.google.com/file/d/1PdDftFSDKmJFAPUJpKuTPVAgQiskaaiX/view?usp=sharing)
 
+AUTOATIC TESTS
+1. Postman → [Task1](https://drive.google.com/file/d/1bUp5dTcyquCnRQW9bXnC54ZuxHWQMu5Z/view?usp=sharing)
+
+
 
 #### HTML, CSS and JavaScript
 1. Application for downloading selected quotes from the API https://quotable.io/random → [QuotesApi](https://ajrkwsk.github.io/QuotesApi/)
