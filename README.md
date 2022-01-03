@@ -25,6 +25,11 @@
 #### Database - SQL
 
 1. SQL → [Task](https://drive.google.com/file/d/1zDEP85vqpdPWp3RX6Oxw14y3z_PAAbCN/view?usp=sharing)
+
+
+#### WORDPRESS
+
+1. [FIZJOMED Maciej Jurkowski](https://fizjomedjurkowski.pl/)
 _________________________________________________________________________________________________________________________________________________________________
 
 ### PERSONAL SKILLS
