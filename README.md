@@ -2,7 +2,7 @@
 
 ### TECHNICAL SKILLS
 
-###### PROJECT - website testing reserved.com
+###### PROJECT - tests preparation, execution and reports example based on reserved.com web page testing
 1. [Raport](https://drive.google.com/file/d/1x_ffTXb0gmyzk4dd3Mrb9afEyfSlkwKA/view?usp=sharing)
 2. [Mind map](https://drive.google.com/file/d/1Kh5fD45No2LOURYb2pbX1FuO_UmW-b7Q/view?usp=sharing) 
 3. [Test cases](https://drive.google.com/file/d/1d3GwnHwUTJH71Us4el-EgScsEoK1hOr7/view?usp=sharing)
