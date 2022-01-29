@@ -11,7 +11,7 @@
 #### WordPress
 
 1. [FIZJOMED Maciej Jurkowski](https://fizjomedjurkowski.pl/)
-2. [Moje portfolio](https://angelikajurkowska.pl/)
+2. [My portfolio](https://angelikajurkowska.pl/)
 
 
 #### Database - SQL
